@@ -1,4 +1,4 @@
-import cardData from "./data.js";
+import cardData from "./mock/data.js";
 import Card from "./Card.jsx";
 import "./App.css";
 
